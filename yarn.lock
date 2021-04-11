@@ -7736,10 +7736,10 @@ jsbn@~0.1.0:
   resolved "https://registry.yarnpkg.com/jsbn/-/jsbn-0.1.1.tgz#a5e654c2e5a2deb5f201d96cefbca80c0ef2f513"
   integrity sha1-peZUwuWi3rXyAdls77yoDA7y9RM=
 
-jsdom@16.5.2, jsdom@^16.4.0:
-  version "16.5.2"
-  resolved "https://registry.yarnpkg.com/jsdom/-/jsdom-16.5.2.tgz#583fac89a0aea31dbf6237e7e4bedccd9beab472"
-  integrity sha512-JxNtPt9C1ut85boCbJmffaQ06NBnzkQY/MWO3YxPW8IWS38A26z+B1oBvA9LwKrytewdfymnhi4UNH3/RAgZrg==
+jsdom@16.5.3, jsdom@^16.4.0:
+  version "16.5.3"
+  resolved "https://registry.yarnpkg.com/jsdom/-/jsdom-16.5.3.tgz#13a755b3950eb938b4482c407238ddf16f0d2136"
+  integrity sha512-Qj1H+PEvUsOtdPJ056ewXM4UJPCi4hhLA8wpiz9F2YvsRBhuFsXxtrIFAgGBDynQA9isAMGE91PfUYbdMPXuTA==
   dependencies:
     abab "^2.0.5"
     acorn "^8.1.0"
@@ -9870,10 +9870,10 @@ pinkie@^2.0.0:
   resolved "https://registry.yarnpkg.com/pinkie/-/pinkie-2.0.4.tgz#72556b80cfa0d48a974e80e77248e80ed4f7f870"
   integrity sha1-clVrgM+g1IqXToDnckjoDtT3+HA=
 
-pinyin@2.10.0:
-  version "2.10.0"
-  resolved "https://registry.yarnpkg.com/pinyin/-/pinyin-2.10.0.tgz#832c61d73019c5cb67e4ea0b7c2462dec8c3a992"
-  integrity sha512-6psdK9BCkhr19jsSD3p+77+DjuJHMNTUccclEoBqIIka16IN1T2nIgdrFy1IJneR28AkSD2TnJlnP8r6pzjZYw==
+pinyin@2.10.2:
+  version "2.10.2"
+  resolved "https://registry.yarnpkg.com/pinyin/-/pinyin-2.10.2.tgz#93e3b3cb4430009925163bad10c741778c85b013"
+  integrity sha512-qAcp7+2vnjm6sAd0B9pp5JpyvHbYoQO1v9zCeJQMEgyw2VeRi02l0gR22ZBgfjjvZ1c2EGoVjJHJ1h0rwr34Ug==
   dependencies:
     commander "~1.1.1"
     object-assign "^4.0.1"
